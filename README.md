@@ -1,4 +1,4 @@
- [![Stories in Ready](https://badge.waffle.io/stephendicerce/schedule_app.png?label=ready&title=View our Waffle)](https://waffle.io/stephendicerce/schedule_app?utm_source=badge)
+ [![Stories in Ready](https://badge.waffle.io/stephendicerce/schedule_app.png?label=ready&title=View\ our\ Waffle)](https://waffle.io/stephendicerce/schedule_app?utm_source=badge)
 # Scheduling App
 Summer busy work to create a mobile Application/Web based program to keep track of everything life throws
 at you.
