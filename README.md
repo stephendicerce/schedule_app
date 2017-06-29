@@ -22,8 +22,10 @@ Run the following code in a terminal
 Congratulations your database is set up and Grails will take care of all of the hard stuff.
 
 ## Our Plan
-As of right now this program is still in it's infancy, so our path is unclear as of now,
-however we plan to talk about what we want to do, and how we want to go about it in the short term.
+We plan to build a Grails-app for the web based portion of the application. Most of our coding will therefore be done in Java and Groovy. Our first step will be to design the engine for the application. This will ensure that our backend will be relatively bug free before the application even sees the light of day.
+Our plan for the engine will be to design a restful api which will communicate between the databse and the user as needed.
+
+
 
 Stay tuned for more updates!
                               
