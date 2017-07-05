@@ -9,7 +9,7 @@ class User {
     String imageUrl
 
     static hasOne = [authToken: AuthToken]
-    static hasMany = [event: Event]
+    static hasMany = [events: Event]
 
     static mapping = {
         table "users"
